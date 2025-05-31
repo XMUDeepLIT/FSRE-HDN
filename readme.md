@@ -1,4 +1,6 @@
 # FSRE-HDN
+This repo contains the code and data for **HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction**
+(EMNLP-2023).
 
 
 ## Requirements
@@ -27,7 +29,7 @@ Our **two-stage training strategy** can be found on lines 220 to 320 of the ``fr
 
 
 
-## Train
+## Training
 You can train a N-way-K-shot model by:
 ```
 sh run_bert.sh
